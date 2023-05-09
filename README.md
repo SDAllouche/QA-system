@@ -1,1 +1,4 @@
-"# QA-system" 
+# QA System
+
+## License
+[Apache LICENSE](LICENSE)
